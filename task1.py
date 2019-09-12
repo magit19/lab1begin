@@ -1,3 +1,3 @@
 # Moloko
 name = input()
-print('Hello!')
+print('Hello!' + name + '!')
