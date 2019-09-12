@@ -1,3 +1,3 @@
 name = input()
-print('Hello!')
+print('Hello', name +"!")
 # Sluchainyi Commentariy
