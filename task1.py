@@ -1,3 +1,3 @@
 #---- ПЕРВЫЙ ФАЙЛ НА ПИТОНЕ
 name = input()
-print('Hello!')
+print('Hello, ' + name + '!')
