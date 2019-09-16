@@ -1,3 +1,3 @@
+#rjvvtynfhbqmnbjgjg
 name = input()
-print('Hello', name +"!")
-# Sluchainyi Commentariy
+print('Hello')
