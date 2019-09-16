@@ -1,3 +1,3 @@
 # iolki palki
 name = input()
-print('Hello!')
+print('Hello Erken!')
