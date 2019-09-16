@@ -1,3 +1,5 @@
 # йоу привет!арварвав
 name = input()
-print('Hello!')
+#ptint ('Hello!') 
+print(name+' '+ 'Hello')
+
