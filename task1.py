@@ -1,3 +1,3 @@
 # камент
 name = input()
-print('Hello!')
+print('Hello ' + name + '!')
