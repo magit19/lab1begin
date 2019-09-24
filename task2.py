@@ -5,7 +5,6 @@ def digit_sum(n):
         s = s + n%10
         n = n // 10
 
-
     return s
 
 print('Введите число')
