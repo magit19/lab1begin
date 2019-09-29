@@ -1,5 +1,7 @@
 def is_prime(n):
-	pass
-
-n = int(input())
+	s = 2
+	while n % s != 0: 
+		s += 1 
+	return s == n
+n = int(input("Введите число: "))
 print(is_prime(n))
