@@ -11,7 +11,7 @@ def is_prime(n):
 		if (n%i == 0 or n%(i+2) == 0):
 			return False
 			i = i+6
-	return True
+		return True 
 	
 n = int(input())
 print(is_prime(n))
