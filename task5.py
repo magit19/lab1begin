@@ -4,5 +4,6 @@ def is_prime(n):
 			return False
 	else:
 	   return True
+
 n = int(input())
 print(is_prime(n))
