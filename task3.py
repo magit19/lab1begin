@@ -4,10 +4,7 @@ def is_beautiful(n):
 	while n > 0:
 		s = s + n%10
 		n = n//10 
-	if a%s == 0:
-		s = True
-	else:
-		s = False
-	return s
+	g = a%s == 0
+	return g
 n = int(input("Введите число: "))
 print(is_beautiful(n))
